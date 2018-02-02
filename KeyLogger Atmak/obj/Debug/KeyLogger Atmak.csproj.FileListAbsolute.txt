@@ -1,0 +1,50 @@
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.exe
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.pdb
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GrooveKeyCache.dll
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GroovePrivateKeyStore.dll
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GroovePrivateKeyStorePrivate.dll
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csproj.ResolveComReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger_Atmak.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger_Atmak.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.exe
+c:\users\everest\documents\visual studio 2013\Projects\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.pdb
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.exe.config
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GrooveKeyCache.dll
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GroovePrivateKeyStore.dll
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GroovePrivateKeyStorePrivate.dll
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csproj.ResolveComReference.cache
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.exe
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.pdb
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.exe
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.pdb
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csprojResolveAssemblyReference.cache
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger_Atmak.Form1.resources
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger_Atmak.Properties.Resources.resources
+E:\DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csproj.GenerateResource.Cache
+E:\C #DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.exe.config
+E:\C #DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GrooveKeyCache.dll
+E:\C #DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GroovePrivateKeyStore.dll
+E:\C #DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GroovePrivateKeyStorePrivate.dll
+E:\C #DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+E:\C #DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csproj.ResolveComReference.cache
+E:\C #DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.exe
+E:\C #DERSLER AYIRMALI\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.pdb
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.exe.config
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GrooveKeyCache.dll
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GroovePrivateKeyStore.dll
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.GroovePrivateKeyStorePrivate.dll
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csproj.ResolveComReference.cache
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.exe
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.pdb
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.exe
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\bin\Debug\KeyLogger Atmak.pdb
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csprojResolveAssemblyReference.cache
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger_Atmak.Form1.resources
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger_Atmak.Properties.Resources.resources
+E:\C #DERSLER Açıklamalı\Keylogger C#\KeyLogger Atmak\KeyLogger Atmak\obj\Debug\KeyLogger Atmak.csproj.GenerateResource.Cache
